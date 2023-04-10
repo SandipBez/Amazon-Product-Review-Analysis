@@ -7,4 +7,4 @@ Here we have four problem statements for four projects ---
   
   3.Creating customer's cluster to identify the different types of customers.
   
-  4.uilding a model to forecast furniture sales in the future for a specific store.
+  4.Building a model to forecast furniture sales in the future for a specific store.
